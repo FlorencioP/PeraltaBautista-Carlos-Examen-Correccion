@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-
+    <title>Restaurante</title> 
     <link rel="stylesheet" type="text/css" href="regsTar.css"/>
 
 </head>
@@ -10,7 +10,7 @@
 
         <h1>Registre su tarjeta en el sistema</h1>
 
-        <form id="formulario01" method="POST" action="../Back/crear_tarjeta.php" onsubmit="iralmenu()">
+        <form id="formulario01" method="POST" action="../Back/crear_tarjeta.php">
        
                
                     <label id="text">Numero: </label>

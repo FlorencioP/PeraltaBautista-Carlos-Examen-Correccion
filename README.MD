@@ -41,4 +41,32 @@ y puede escojer las opciones del menu que se iran mostrando deacuerdo a lo que s
 
 ![11](/READMEIMG/11.png?raw=true "Title")
 
-Y hasta aqui llegue :c
+Una vez asegurada la existencia de la tarjeta el cliente puede hacer click en "Realizar Pedido" Esto hace que todos los productos que alla selecionado se guarden y se cree la factura en la base de datos:
+
+Aqui se muestra guardado el pedido en la base de datos:
+
+![12](/READMEIMG/12.png?raw=true "Title")
+
+Y aqui se pueden mostrar los pedidos enlazados al pedido:
+
+![13](/READMEIMG/13.png?raw=true "Title")
+
+Con esto completariamos el proceso de guardado de datos.
+
+Para buscar entre los pedidos existen 2 opciones: La de buscar por tarjeta de credito (Todos los pedidos realizados con esa tarjeta de credito) y el nombre de la comida (Todos los Pedidos que contengan esa comida)
+
+![14](/READMEIMG/14.png?raw=true "Title")
+
+Aqui mostramos como es cuando se busca por numero de tarjeta:
+
+![15](/READMEIMG/15.png?raw=true "Title")
+
+Y aqui como es cuando se busca por Nombre de la comida:
+
+![16](/READMEIMG/16.png?raw=true "Title")
+
+En ambos casos, al hacer click en "Pedidos" se enlistaran las comidas pedidas dentro de ese pedido
+
+![17](/READMEIMG/17.png?raw=true "Title")
+
+Eso seria todo.
